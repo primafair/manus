@@ -1,0 +1,21 @@
+[
+  {
+    "id": "2e70d62e-eedd-491e-83de-cbd32be821b4",
+    "firstName": "Max",
+    "lastName": "Mustermann",
+    "birthDate": "1990-01-01",
+    "birthPlace": "Berlin",
+    "nationality": "deutsch",
+    "gender": "male",
+    "street": "Musterstraße",
+    "houseNumber": "123",
+    "postalCode": "12345",
+    "city": "Berlin",
+    "email": "max.mustermann@example.com",
+    "taxId": "",
+    "deliveryMethod": "email",
+    "status": "pending",
+    "createdAt": "2025-07-12T13:24:58.100Z",
+    "updatedAt": "2025-07-12T13:24:58.100Z"
+  }
+]
